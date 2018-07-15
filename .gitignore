@@ -6,6 +6,11 @@ ehthumbs_vista.db
 # Python:
 *.pyc
 
+# data
+*.jpg
+*.png
+*.h5
+
 
 # Folder config file
 Desktop.ini
