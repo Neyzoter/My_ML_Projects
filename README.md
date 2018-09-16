@@ -2,6 +2,7 @@
 
 * [仓库作用](#仓库作用)
 * [文件简介](#文件简介)
+    * [测试Test](#测试)
 	* [基于单隐层神经网络的二维数据分类Planar-data-classification-with-one-hidden-layer](#基于单隐层神经网络的二维数据分类)
 	* [基于L层简单神经网络的猫图识别Recognite-Cat-with-L-Layers-NN](#基于L层简单神经网络的猫图识别)
 	* [基于Nelearn2层神经网络的手势识别Gesture0to5-recognition-based-on-Nelearn-and-tensorflow](#基于Nelearn2层神经网络的手势识别)
@@ -11,9 +12,14 @@
 
 
 # 仓库作用
-本仓库用于存储我的小型机器学习项目
+本仓库用于存储我的机器学习项目
 
 # 文件简介
+### 测试
+**Test**
+
+放置数据科学等的代码测试。
+
 ### 基于单隐层神经网络的二维数据分类
 **Planar-data-classification-with-one-hidden-layer**
 
