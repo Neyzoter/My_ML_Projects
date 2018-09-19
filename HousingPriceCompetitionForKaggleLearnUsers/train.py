@@ -69,3 +69,5 @@ test_predictions = model.predict(test_features)
 
 my_submission = pd.DataFrame({'Id': test_data.Id, 'SalePrice': test_predictions})
 my_submission.to_csv('submission.csv', index=False)
+
+
