@@ -32,6 +32,9 @@ missing_cols_train = [col for col in train_features.columns
 missing_cols_test = [col for col in test_features.columns
                      if test_features[col].isnull().any()]
 
+##查找test和train中包含NaN的列有什么不同
+#[col for col in missing_cols_train if col not in missing_cols_test]
+
 missing_cols = missing_cols_train+missing_cols_test # 在训练集和测试集中有缺失值的列
 ## 45个特征
 train_features.drop(missing_cols,axis = 1,inplace = True)

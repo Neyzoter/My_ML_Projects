@@ -78,7 +78,7 @@
 
 **BsmtFinSF1**:地下室完成平方英尺,int64,无缺失值
 
-**BsmtFinType2**：第二个成品区的质量，object,[Unf,ALQ,NaN,...]
+**BsmtFinType2**：第二个成品区的质量，object,[Unf,ALQ,NaN,...],有缺失值
 
 **BsmtFinSF2**：第二个成品的完成面积,int64,无缺失值
 
@@ -166,9 +166,9 @@
 
 **MoSold**：销售的月份,int64,无缺失值
 
-**YrSold**：销售的年份,int64
+**YrSold**：销售的年份,int64,无缺失值
 
-**SaleType**：销售类型,object,[WD,COD,...]
+**SaleType**：销售类型,object,[WD,COD,...],无缺失值
 
 **SaleCondition**：销售环境,object,[Abnorml,Partial,...],无缺失值
 
