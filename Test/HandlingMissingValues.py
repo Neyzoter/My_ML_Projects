@@ -59,7 +59,9 @@ my_imputer = Imputer()
 # fit：只有X_train的话，执行无监督学习算法，比如降维、特征提取、标准化等
 # transform：根据对象的特性来定，比如这里是Imputer()对象，那么就是要执行impute
 # 另外也可以是StandardScaler()对象，实现标准化（在此之前也要fit）
+#print(len(X_train.columns))
 imputed_X_train = my_imputer.fit_transform(X_train) 
+#print(len(imputed_X_train[0,:]))
 imputed_X_test = my_imputer.transform(X_test)
 print("Mean Absolute Error from Imputation:")
 print(score_dataset(imputed_X_train, imputed_X_test, y_train, y_test))
