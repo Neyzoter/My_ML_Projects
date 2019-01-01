@@ -26,13 +26,13 @@
 
 **作用**：预测房价
 
-**模型**：sub1——XGBRegressor
+**模型**：XGBRegressor
 
-**策略**：？
+**策略**：回归树
 
-**算法**：？
+**算法**：GB（Gradient Boosting梯度提升）
 
-**备注**：？
+**备注**：无
 
 ### 基于单隐层神经网络的二维数据分类
 **Planar-data-classification-with-one-hidden-layer**
