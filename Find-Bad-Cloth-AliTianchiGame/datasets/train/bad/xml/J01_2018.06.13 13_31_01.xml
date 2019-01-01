@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.13 13_31_01.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>吊纬</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1574</xmin>
+			<ymin>288</ymin>
+			<xmax>2347</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

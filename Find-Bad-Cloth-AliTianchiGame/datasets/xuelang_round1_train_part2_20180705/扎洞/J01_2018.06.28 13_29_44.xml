@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.28 13_29_44.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>扎洞</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>498</xmin>
+			<ymin>88</ymin>
+			<xmax>586</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>扎洞</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>590</xmin>
+			<ymin>1264</ymin>
+			<xmax>700</xmax>
+			<ymax>1920</ymax>
+		</bndbox>
+	</object>
+</annotation>

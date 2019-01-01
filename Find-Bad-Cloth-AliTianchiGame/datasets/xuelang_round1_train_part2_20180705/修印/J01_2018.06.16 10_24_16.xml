@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.16 10_24_16.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>修印</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1345</xmin>
+			<ymin>1157</ymin>
+			<xmax>1761</xmax>
+			<ymax>1266</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>修印</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1348</xmin>
+			<ymin>820</ymin>
+			<xmax>1461</xmax>
+			<ymax>898</ymax>
+		</bndbox>
+	</object>
+</annotation>

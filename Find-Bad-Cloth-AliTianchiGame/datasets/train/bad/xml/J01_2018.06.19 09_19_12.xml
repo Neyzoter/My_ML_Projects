@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.19 09_19_12.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>跳花</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1335</xmin>
+			<ymin>888</ymin>
+			<xmax>1420</xmax>
+			<ymax>988</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>跳花</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1447</xmin>
+			<ymin>717</ymin>
+			<xmax>1518</xmax>
+			<ymax>802</ymax>
+		</bndbox>
+	</object>
+</annotation>

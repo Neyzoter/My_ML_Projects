@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.19 09_47_41.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>扎洞</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1848</xmin>
+			<ymin>284</ymin>
+			<xmax>1945</xmax>
+			<ymax>910</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>扎洞</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1820</xmin>
+			<ymin>1558</ymin>
+			<xmax>1931</xmax>
+			<ymax>1914</ymax>
+		</bndbox>
+	</object>
+</annotation>

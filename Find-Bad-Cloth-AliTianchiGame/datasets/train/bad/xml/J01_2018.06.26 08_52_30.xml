@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.26 08_52_30.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>破边</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2001</xmin>
+			<ymin>986</ymin>
+			<xmax>2248</xmax>
+			<ymax>1396</ymax>
+		</bndbox>
+	</object>
+</annotation>

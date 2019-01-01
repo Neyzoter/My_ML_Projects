@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.22 09_03_24.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>粗纱</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1119</xmin>
+			<ymin>932</ymin>
+			<xmax>1453</xmax>
+			<ymax>1016</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>吊经</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>999</xmin>
+			<ymin>11</ymin>
+			<xmax>1100</xmax>
+			<ymax>1892</ymax>
+		</bndbox>
+	</object>
+</annotation>

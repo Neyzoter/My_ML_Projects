@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.23 10_46_42.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>扎洞</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>738</xmin>
+			<ymin>51</ymin>
+			<xmax>868</xmax>
+			<ymax>1906</ymax>
+		</bndbox>
+	</object>
+</annotation>

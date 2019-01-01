@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.20 08_56_50.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>扎洞</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1671</xmin>
+			<ymin>39</ymin>
+			<xmax>1805</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>扎洞</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1662</xmin>
+			<ymin>656</ymin>
+			<xmax>1791</xmax>
+			<ymax>1824</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.23 09_19_24.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>黄渍</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>973</xmin>
+			<ymin>654</ymin>
+			<xmax>1143</xmax>
+			<ymax>904</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>黄渍</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1508</xmin>
+			<ymin>836</ymin>
+			<xmax>1641</xmax>
+			<ymax>1011</ymax>
+		</bndbox>
+	</object>
+</annotation>

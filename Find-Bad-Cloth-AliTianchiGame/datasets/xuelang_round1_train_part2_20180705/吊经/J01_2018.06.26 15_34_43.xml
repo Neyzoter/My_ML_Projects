@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.26 15_34_43.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>吊经</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>433</xmin>
+			<ymin>114</ymin>
+			<xmax>533</xmax>
+			<ymax>1829</ymax>
+		</bndbox>
+	</object>
+</annotation>

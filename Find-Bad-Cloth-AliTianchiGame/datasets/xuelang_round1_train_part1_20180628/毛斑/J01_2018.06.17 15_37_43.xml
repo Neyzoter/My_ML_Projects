@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.17 15_37_43.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>毛斑</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>601</xmin>
+			<ymin>752</ymin>
+			<xmax>759</xmax>
+			<ymax>928</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.28 13_26_33.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>擦洞</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>904</ymin>
+			<xmax>113</xmax>
+			<ymax>1104</ymax>
+		</bndbox>
+	</object>
+</annotation>

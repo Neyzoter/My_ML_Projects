@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.16 10_35_51.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>厚薄段</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>675</ymin>
+			<xmax>2544</xmax>
+			<ymax>846</ymax>
+		</bndbox>
+	</object>
+</annotation>

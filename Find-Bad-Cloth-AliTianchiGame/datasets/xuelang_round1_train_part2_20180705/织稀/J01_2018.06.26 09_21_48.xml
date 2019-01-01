@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.26 09_21_48.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>织稀</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>1507</ymin>
+			<xmax>2553</xmax>
+			<ymax>1620</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>织稀</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>1722</ymin>
+			<xmax>2560</xmax>
+			<ymax>1920</ymax>
+		</bndbox>
+	</object>
+</annotation>

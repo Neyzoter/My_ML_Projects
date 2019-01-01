@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.16 09_35_26.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>缺纬</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2263</xmin>
+			<ymin>495</ymin>
+			<xmax>2403</xmax>
+			<ymax>822</ymax>
+		</bndbox>
+	</object>
+</annotation>

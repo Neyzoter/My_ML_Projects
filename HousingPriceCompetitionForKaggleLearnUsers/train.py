@@ -1,11 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Sep 16 20:27:11 2018
-
 Housing Prices Competition for Kaggle Learn Users
-
-@author: HP528
-
+@author: 宋超超
 @version:0.0.1
 """
 
@@ -64,22 +60,28 @@ test_features = test_data.drop(['Id'],axis = 1)
 missing_cols_train = [col for col in train_features.columns
                      if train_features[col].isnull().any()]
 print('missing features:'+str(missing_cols_train))
+
+
 # 独热
 train_features = pd.get_dummies(train_features)
 test_features = pd.get_dummies(test_features)
 
-missing_cols_train = [col for col in train_features.columns
-                     if train_features[col].isnull().any()]
-print('missing features:'+str(missing_cols_train))
+train_features,test_features = train_features.align(test_features,
+                                                    join='outer',
+                                                    axis = 1)
+
+#missing_cols_train = [col for col in train_features.columns
+#                     if train_features[col].isnull().any()]
+#print('missing features:'+str(missing_cols_train))
 
 #print("train_features's num: ",train_features.columns.size)
 #print("test_features's num: ",test_features.columns.size)
 #print("feature's name: ",[col for col in test_features.columns
 #                          if col not in train_features.columns])
 
-train_features,test_features = train_features.align(test_features,
-                                                    join='left',
-                                                    axis = 1)
+#train_features,test_features = train_features.align(test_features,
+#                                                    join='left',
+#                                                    axis = 1)
 missing_cols_train = [col for col in train_features.columns
                      if train_features[col].isnull().any()]
 print('missing features:'+str(missing_cols_train))
@@ -89,7 +91,7 @@ my_imputer = Imputer(strategy = 'median')
 train_features = my_imputer.fit_transform(train_features)
 test_features = my_imputer.transform(test_features)
 #print(train_features.LotFrontage)
-##print("features num : "+len(train_features.columns))
+#print("features num : "+len(train_features.columns))
 ## 训练数据集分割成训练集和测试集，用于测试
 
 X_train, X_test, y_train, y_test = train_test_split(train_features, 
@@ -99,7 +101,7 @@ X_train, X_test, y_train, y_test = train_test_split(train_features,
                                                     random_state=0)
 
 # 训练XGBOOST
-model = XGBRegressor()
+model = XGBRegressor(max_depth=7,learning_rate=0.1,Missing=None)
 model.fit(X_train,y_train, verbose=False)
 
 predictions = model.predict(X_test)
@@ -108,7 +110,6 @@ print("Mean Absolute Error : " + str(mean_absolute_error(predictions, y_test)))
 
 # 测试集输出
 test_predictions = model.predict(test_features)
-
 
 my_submission = pd.DataFrame({'Id': test_data.Id, 'SalePrice': test_predictions})
 my_submission.to_csv('submission.csv', index=False)

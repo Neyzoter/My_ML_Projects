@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.26 13_28_17.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>毛斑</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2444</xmin>
+			<ymin>1390</ymin>
+			<xmax>2520</xmax>
+			<ymax>1472</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>织稀</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1592</xmin>
+			<ymin>1362</ymin>
+			<xmax>2328</xmax>
+			<ymax>1434</ymax>
+		</bndbox>
+	</object>
+</annotation>

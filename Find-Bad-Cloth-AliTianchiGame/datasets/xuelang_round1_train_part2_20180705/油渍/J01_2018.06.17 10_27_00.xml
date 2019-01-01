@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.17 10_27_00.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>油渍</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>443</ymin>
+			<xmax>826</xmax>
+			<ymax>1272</ymax>
+		</bndbox>
+	</object>
+</annotation>

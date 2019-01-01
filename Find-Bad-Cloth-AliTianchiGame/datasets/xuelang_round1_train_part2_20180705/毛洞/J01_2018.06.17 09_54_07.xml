@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.17 09_54_07.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>毛洞</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1477</xmin>
+			<ymin>58</ymin>
+			<xmax>1881</xmax>
+			<ymax>652</ymax>
+		</bndbox>
+	</object>
+</annotation>

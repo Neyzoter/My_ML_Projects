@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.28 13_46_52.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>擦洞</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>782</xmin>
+			<ymin>128</ymin>
+			<xmax>1166</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>擦洞</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>931</ymin>
+			<xmax>368</xmax>
+			<ymax>1303</ymax>
+		</bndbox>
+	</object>
+</annotation>

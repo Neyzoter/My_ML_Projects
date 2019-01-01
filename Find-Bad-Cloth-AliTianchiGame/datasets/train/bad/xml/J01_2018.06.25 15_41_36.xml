@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.25 15_41_36.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>跳花</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>739</xmin>
+			<ymin>428</ymin>
+			<xmax>802</xmax>
+			<ymax>768</ymax>
+		</bndbox>
+	</object>
+</annotation>

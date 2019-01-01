@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.25 13_48_32.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>楞断</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1582</xmin>
+			<ymin>818</ymin>
+			<xmax>1618</xmax>
+			<ymax>1022</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>楞断</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1393</xmin>
+			<ymin>757</ymin>
+			<xmax>1427</xmax>
+			<ymax>845</ymax>
+		</bndbox>
+	</object>
+</annotation>

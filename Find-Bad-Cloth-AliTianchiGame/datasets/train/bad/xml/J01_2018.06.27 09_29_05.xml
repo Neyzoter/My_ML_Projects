@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.27 09_29_05.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>吊经</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1352</xmin>
+			<ymin>1042</ymin>
+			<xmax>1444</xmax>
+			<ymax>1696</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>吊经</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1300</xmin>
+			<ymin>506</ymin>
+			<xmax>1376</xmax>
+			<ymax>668</ymax>
+		</bndbox>
+	</object>
+</annotation>

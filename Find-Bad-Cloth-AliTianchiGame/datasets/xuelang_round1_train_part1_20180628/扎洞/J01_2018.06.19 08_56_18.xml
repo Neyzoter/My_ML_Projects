@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.19 08_56_18.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>扎洞</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1577</xmin>
+			<ymin>39</ymin>
+			<xmax>1664</xmax>
+			<ymax>971</ymax>
+		</bndbox>
+	</object>
+</annotation>

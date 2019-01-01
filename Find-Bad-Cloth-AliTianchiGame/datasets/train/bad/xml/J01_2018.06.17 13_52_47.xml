@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.17 13_52_47.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>经粗纱</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>751</xmin>
+			<ymin>178</ymin>
+			<xmax>789</xmax>
+			<ymax>1461</ymax>
+		</bndbox>
+	</object>
+</annotation>

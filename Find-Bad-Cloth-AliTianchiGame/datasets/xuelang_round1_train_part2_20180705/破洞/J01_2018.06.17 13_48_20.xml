@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.17 13_48_20.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>破洞</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1191</xmin>
+			<ymin>1024</ymin>
+			<xmax>1497</xmax>
+			<ymax>1382</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>破洞</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2301</xmin>
+			<ymin>838</ymin>
+			<xmax>2423</xmax>
+			<ymax>1016</ymax>
+		</bndbox>
+	</object>
+</annotation>

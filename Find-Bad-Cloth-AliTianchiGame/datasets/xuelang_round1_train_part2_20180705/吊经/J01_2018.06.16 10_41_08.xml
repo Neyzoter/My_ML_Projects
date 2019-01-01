@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.16 10_41_08.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>吊经</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>773</xmin>
+			<ymin>573</ymin>
+			<xmax>832</xmax>
+			<ymax>1283</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>吊经</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1163</xmin>
+			<ymin>776</ymin>
+			<xmax>1217</xmax>
+			<ymax>1273</ymax>
+		</bndbox>
+	</object>
+</annotation>
