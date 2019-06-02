@@ -10,6 +10,7 @@ ehthumbs_vista.db
 *.jpg
 *.png
 *.h5
+*.csv
 
 
 # Folder config file

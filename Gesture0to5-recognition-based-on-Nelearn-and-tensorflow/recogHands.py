@@ -1,4 +1,3 @@
-﻿
 # 如果没有Nelearn这个文件夹和你的py主函数文件放在一起，则需要把Nelearn的绝对路径加进去
 import sys
 sys.path.append(r'.') # 这里包含了当前文件夹
