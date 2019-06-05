@@ -3,14 +3,16 @@
 * [仓库作用](#仓库作用)
 * [文件简介](#文件简介)
     * [测试Test](#测试)
+    * [基于模型融合的地震预测](###基于模型融合的地震预测)
+    * [工业蒸汽预测](###工业蒸汽预测)
+    * [科比投篮选择](###科比投篮选择)
     * [预测房价HousingPriceCompetitionForKaggleLearnUsers](#房价预测)
-	* [基于单隐层神经网络的二维数据分类Planar-data-classification-with-one-hidden-layer](#基于单隐层神经网络的二维数据分类)
-	* [基于L层简单神经网络的猫图识别Recognite-Cat-with-L-Layers-NN](#基于L层简单神经网络的猫图识别)
-	* [基于Nelearn2层神经网络的手势识别Gesture0to5-recognition-based-on-Nelearn-and-tensorflow](#基于Nelearn2层神经网络的手势识别)
-	* [基于Keras卷积神经网络的笑脸识别HappyFace-Recognition-Keras](#基于Keras卷积神经网络的笑脸识别)
-	* [基于Keras残差网络的手势识别Gesture0to5-recognition-based-on-ResNet-Keras](#基于Keras残差网络的手势识别)
-	* [基于YOLOv2的80种物体识别CarDetector-YOLO](###基于YOLOv2的80种物体识别)
-
+    * [基于单隐层神经网络的二维数据分类Planar-data-classification-with-one-hidden-layer](#基于单隐层神经网络的二维数据分类)
+    * [基于L层简单神经网络的猫图识别Recognite-Cat-with-L-Layers-NN](#基于L层简单神经网络的猫图识别)
+    * [基于Nelearn2层神经网络的手势识别Gesture0to5-recognition-based-on-Nelearn-and-tensorflow](#基于Nelearn2层神经网络的手势识别)
+    * [基于Keras卷积神经网络的笑脸识别HappyFace-Recognition-Keras](#基于Keras卷积神经网络的笑脸识别)
+    * [基于Keras残差网络的手势识别Gesture0to5-recognition-based-on-ResNet-Keras](#基于Keras残差网络的手势识别)
+    * [基于YOLOv2的80种物体识别CarDetector-YOLO](###基于YOLOv2的80种物体识别)
 
 # 仓库作用
 本仓库用于存储我的机器学习项目
@@ -20,6 +22,18 @@
 **Test**
 
 放置数据科学等的代码测试。
+
+### 科比投篮选择
+
+[Kaggle试题](https://www.kaggle.com/c/kobe-bryant-shot-selection)
+
+### 工业蒸汽预测
+
+[天池试题](https://tianchi.aliyun.com/competition/entrance/231693/introduction?spm=5176.12281949.1003.7.493e4c2aaOLSyp)
+
+### 基于模型融合的地震预测
+
+[Kaggle试题](https://www.kaggle.com/c/LANL-Earthquake-Prediction)
 
 ### 房价预测
 **HousingPriceCompetitionForKaggleLearnUsers**
